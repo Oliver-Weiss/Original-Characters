@@ -1,0 +1,44 @@
+* {
+    background-color: #c1882c;
+}
+
+h1 {
+    color: #ecebd5;
+    text-align: center;
+}
+
+h2 {
+    color: #746464;
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    color: #ead997;
+}
+
+p {
+    color: #3a3727;
+}
+
+:any-link {
+    color: #ecebd5;
+    text-decoration: none;
+}
+
+.all-text {
+    display: flex;
+}
+
+.info {
+    margin-left: 45px;
+}
+
+.extra {
+    margin-left: 15px;
+}
+
+.fix {
+    height: 500px;
+    width: auto;
+}

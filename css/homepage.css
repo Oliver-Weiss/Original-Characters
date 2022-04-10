@@ -1,0 +1,28 @@
+* {
+    background-color: #ead997;
+    text-align: center;
+}
+
+p {
+    color: #3a3727;
+}
+
+:any-link {
+    color: #618061;
+    text-decoration: none;
+}
+
+#doll {
+    width: 500px;
+    height: 600px;
+}
+
+#liam {
+    width: 500px;
+    height: 500px;
+}
+
+#nathaniel {
+    width: 400px;
+    height: 600px;
+}
